@@ -13,6 +13,16 @@ For this flag I decided to use the same colours as the greek flag, but I used a 
 
 ![North Korean Flag](RajeevsFlags/NorthKorean.png)
 I changed the red in middle of the flag to orange to give the star more contrast as it is also red. I also copied the star on the flag twice this was to make it look more distinctive than the original.
+
+![AfricanFlag](RajeevsFlags/AfricanFlag.png)
+
+![EarthFlag](RajeevsFlags/EarthFlag.png)
+
+![FrenchFlag](RajeevsFlags/FrenchFlag.png)
+
+![LondonFllag](RajeevsFlags/LondonFllag.png)
+
+![JmaicaxKittsnNevis](RajeevsFlags/JmaicaxKittsnNevis.png)
  
 
 
